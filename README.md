@@ -14,3 +14,7 @@ Melhorias:
 
     - Disponibilizar em pagina web ou API.
     - Quebrar em thread pensando no sentido no texto.
+
+Exemplo:
+
+![image](https://user-images.githubusercontent.com/26041581/167745716-da698ded-ad9d-434f-bbd8-a62c67b29398.png)
